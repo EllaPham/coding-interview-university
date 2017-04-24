@@ -59,10 +59,18 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [X] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [X] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
 - [ ] TopCoder (includes recurrence relations and master theorem):
-    - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
-    - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/) (OK)
-
+    - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/) (OK)- chi doc qua
+    - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/) (OK) - chi doc qua
+- [X] Some video about calculating the complexity of argrithm on Youtube: 
+   [X] https://www.youtube.com/watch?v=AL7yO-I5kFU (OK)
+   [X] https://www.youtube.com/watch?v=4XkHbNi1ZL4 
+   [X] https://www.youtube.com/watch?v=PFd5s0bHgAQ (OK)
+- [X] [Cheat sheet](http://bigocheatsheet.com/) (OK)
+Yêu cầu của phần bigO này: 
+- Hiểu được khái niệm của bigO, Theta, Omega
+- Cho 1 đoạn chương trình => dựa vào kiến thức cơ bản tính được độ phức tạp của thuật toán (trong phần vài video trên youtube có đề cập đến cách tính) 
+- Năm được độ phức tạp thuật toán cho các thuật toán cơ bản ở trong phần cheat sheet là được
+- Code lại phần so sánh các độ phúc tạp ở trên https://www.youtube.com/watch?v=iOq5kSKqeR4
 
     If some of the lectures are too mathy, you can jump down to the bottom and
     watch the discrete mathematics videos to get the background knowledge.
