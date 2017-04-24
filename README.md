@@ -66,7 +66,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
    [X] https://www.youtube.com/watch?v=4XkHbNi1ZL4 
    [X] https://www.youtube.com/watch?v=PFd5s0bHgAQ (OK)
 - [X] [Cheat sheet](http://bigocheatsheet.com/) (OK)
-Yêu cầu của phần bigO này: 
+(https://www.youtube.com/watch?v=4XkHbNi1ZL4&index=1&list=PLj68PAxAKGoxhAXr-YyjeG9-SyTR5Hm4P )
+- Yêu cầu của phần bigO này: 
 - Hiểu được khái niệm của bigO, Theta, Omega
 - Cho 1 đoạn chương trình => dựa vào kiến thức cơ bản tính được độ phức tạp của thuật toán (trong phần vài video trên youtube có đề cập đến cách tính) 
 - Năm được độ phức tạp thuật toán cho các thuật toán cơ bản ở trong phần cheat sheet là được
