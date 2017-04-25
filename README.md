@@ -80,15 +80,23 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [X] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays) (OK: concept of array) 
         - [UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s) (OK: for newbie) 
-        - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
-        - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
-        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
-        - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
+        - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)(Trả phí, can not access video)
+        - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)(trả phí, can not access video) 
+        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)(Very OK) 
+        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g) (OK- mảng lởm chởm,mảng của mảng, đc sd để tiết kiệm bộ nhớ or về tốc độ trong trường hợp nhiều mảng, mỗi mảng có 1 kích thước lớn nhỏ khác nhau, ví dụ friend list fb của A là 500, còn B la 3)
+        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)(trả phí, not ok)
+        - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html) (trả phí, not OK)  
+  - THEM MOT SO LINK THAM KHAO:
+     - https://www.youtube.com/watch?v=ASVB8KAFypk (pointer & arrray) 
+     - https://www.youtube.com/watch?v=PEnFFiQe1pM (static & dynamic array) 
+  - OUTPUT: 
+      - Khái niệm mảng, mảng được lưu trữ trong bộ nhớ ntn, các thao tác, add- update- remove- read hoạt động ra làm (cách thức hoạt động!)  
+      - Cần nắm được khái niệm: static array và Dynamic array. Điểm khác nhau high light giữa chúng
+      - 2 Loại array trên được implement trong java ntn
+     
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] new raw data array with allocated memory
